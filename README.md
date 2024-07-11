@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/hastycode_ke" target="blank"><img src="https://img.shields.io/twitter/follow/hastycode_ke?logo=twitter&style=for-the-badge" alt="hastycode_ke"  </p>
 
-- 🔭 I’m currently working on **Compiler**
+- 🔭 I’m currently working on a **Compiler**
 
 - 🌱 I’m currently learning **SpringBoot**
 
