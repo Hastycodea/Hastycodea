@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **hastycodeandreh@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I use NeoVim btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
