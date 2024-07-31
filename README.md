@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Java , SQL**
+- 💬 Ask me about **Java , SQL++**
 
 - 📫 How to reach me **hastycodeandreh@gmail.com**
 
