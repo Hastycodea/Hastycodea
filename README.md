@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Java , SQL++, Spring**
+- 💬 Ask me about **Java , SQL, Spring**
 
 - 📫 How to reach me **hastycodeandreh@gmail.com**
 
-- ⚡ Fun fact **I use NeoVim btw**
+- ⚡ Fun fact **I use Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
