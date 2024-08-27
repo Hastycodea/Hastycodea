@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on a **Compiler**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Cobol**
 
 - 💬 Ask me about **Java , SQL, Spring**
 
