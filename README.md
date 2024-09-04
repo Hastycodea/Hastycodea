@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Cobol**
 
-- 💬 Ask me about **Java , SQL, Spring**
+- 💬 Ask me about **Java , SQL, Spring, Cobol**
 
 - 📫 How to reach me **hastycodeandreh@gmail.com**
 
